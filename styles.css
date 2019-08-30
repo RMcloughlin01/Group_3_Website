@@ -5,3 +5,7 @@
 .white-text{
   color: white;
 }
+
+#background-grad{
+  background-image: linear-gradient(#def0d1, #b3d49b, #7d8a74);
+}
